@@ -1,0 +1,11 @@
+Report for Doctor 1
+
+Patient: John Doe
+Age: 45
+Condition: Hypertension
+Notes: Patient is responding well to medication. Blood pressure is under control.
+
+Patient: Jane Smith
+Age: 34
+Condition: Diabetes Type 2
+Notes: Patient needs to monitor blood sugar levels closely. Recommended dietary changes.

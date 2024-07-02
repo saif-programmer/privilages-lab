@@ -1,0 +1,11 @@
+Report for Doctor 2
+
+Patient: Emily Johnson
+Age: 29
+Condition: Asthma
+Notes: Patient needs to use inhaler regularly. Follow up in 3 months.
+
+Patient: Michael Brown
+Age: 50
+Condition: Chronic back pain
+Notes: Physical therapy recommended. Pain management plan initiated.

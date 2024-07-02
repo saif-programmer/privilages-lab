@@ -1,0 +1,11 @@
+Report for Doctor 3
+
+Patient: Sarah Davis
+Age: 40
+Condition: Migraines
+Notes: Patient prescribed new medication. Monitor for side effects.
+
+Patient: Daniel Wilson
+Age: 60
+Condition: Heart Disease
+Notes: Patient advised to follow a strict diet and exercise regimen. Follow up in 1 month.
